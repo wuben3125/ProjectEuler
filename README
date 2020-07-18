@@ -1,0 +1,28 @@
+Project Euler notebook format:
+
+    File naming:
+        Initial filename is [problemID].ipynb   
+        
+        If you want to retry a problem, create a new notebook entry with name [problemID]_[retryNumber].ipynb
+        
+        when solved, add "s" prefix to name (?) - alternatives are moving to separate folder, and suffixing "(solved)"
+            
+        if discarded, add "d" prefix to name (?) - alternatives are moving to separate folder, and deleting without leaving a trace
+    
+    
+    Inside notebook entry, try to include these sections:
+    
+        1. Title of problem, link to problem
+        2. Problem statement block (best if in my own words - but a direct screenshot can work)
+        3. "Planning"/outline block (it can be blank, or be done retroactively, honestly)
+        4. [work]
+        5. Solution block
+        6. "Learning" block (it can be blank, honestly)
+
+        (thanks to Dr. Deng for introducing to me this kind of organization ideal)
+
+    If you want to remember the things you learned, compile and organize your links and topics at the bottom of the project
+        
+        
+
+    
